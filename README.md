@@ -1,4 +1,2 @@
-# demo-project
-This my change
-changed something 
----------------
+# java-project
+Java Project for Jenkins Course
